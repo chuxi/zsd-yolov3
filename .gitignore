@@ -13,3 +13,5 @@ venv
 logs
 yolov3.weights
 venv1
+
+*.pyc
