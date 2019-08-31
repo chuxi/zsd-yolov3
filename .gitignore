@@ -1,0 +1,15 @@
+ZJLAB_ZSD_2019
+ZJLAB_ZSD_2019_pretest
+clsname2id_20k.json
+unseen_Bert.json
+unseen_GloVe.json
+
+yolo3_weights.h5
+
+.idea
+*.iml
+venv
+
+logs
+yolov3.weights
+venv1
